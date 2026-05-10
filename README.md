@@ -28,3 +28,9 @@ Ce projet présente une analyse multidimensionnelle de la performance commercial
 📫 **Contact & Recherche :**
 Actuellement à la recherche d'un **stage en Data Science / Data Analysis** à partir de la **mi-juin 2026**.
 https://www.linkedin.com/posts/amangoua-n-guetta-emmanuel-adja-955ba3256_dataanalysis-powerbi-datascience-activity-7458977762083684352-BIMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8uJ5EBkBa1j8m4u8_849NG6ErYxYD9OsM
+
+## 📂 Accès aux fichiers
+Le projet complet est disponible au format **.pbix** dans ce dépôt. 
+Vous pouvez le télécharger pour explorer les interactions, les mesures DAX et la modélisation de données.
+
+
